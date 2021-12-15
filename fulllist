@@ -106,7 +106,6 @@ i-o+g
 o-g+##
 g-##+n
 ##-n+##
-n-##+s
 ##-s+i
 s-i+s
 i-s
@@ -164,7 +163,6 @@ i-s+i
 b-o+n
 o-n
 o-n+##
-n-##+m
 ##-m+##
 b-o+ng
 o-ng+a
@@ -191,12 +189,9 @@ d-a+b
 r-a
 r-a+r
 b-r+##
-r-##+a
 ##-a+k
 a-k+s
-r-##+k
 ##-k
-r-##+f
 ##-f+i
 f-i+a
 i-a+s
@@ -219,8 +214,6 @@ s-##+n
 n-s+i
 ##-n+t
 n-t+##
-t-##
-t-##+s
 ##-s+m
 s-m+##
 m-##
@@ -253,15 +246,12 @@ s-i+o
 i-o+m
 m-##+t
 ##-t+##
-t-##+r
 r-p+t
 p-t+i
 b-s+t
 s-t+##
-t-##+n
 s-t+i
 i-n+##
-n-##+n
 s-t+r
 t-r+a
 b-s+u
@@ -396,14 +386,12 @@ d-##+m
 ##-m
 ##-m+p
 m-p+##
-p-##+z
 ##-z+##
 z-##
 d-##+n
 ##-n+d
 n-d+u
 d-u+m
-n-##+d
 ##-d
 ##-n+o
 n-o+m
@@ -554,19 +542,15 @@ o-p+s
 o-p+t
 a-d+p
 d-p+##
-p-##+r
 ##-r+t
 r-t+##
 a-d+r
 d-r+##
-r-##+n
 ##-n+a
 l-i+n
-n-##+r
 ##-r+g
 r-g+i
 g-i+k
-r-##+s
 a-d+s
 d-s+o
 r-p+i
@@ -630,7 +614,6 @@ m-o+f
 o-f+##
 f-##+l
 r-o+n
-n-##+t
 ##-t+i
 r-o+p
 o-p+l
@@ -653,7 +636,6 @@ s-t+a
 t-a+t
 a-##+s
 ##-s+t
-t-##+t
 a+f
 a-f+##
 a-f+a
@@ -756,7 +738,6 @@ a-g+r
 r-a+d
 a-r+i
 g-r+##
-r-##+g
 g-a+t
 i-f+i
 ##-s+o
@@ -778,7 +759,6 @@ r-o+##
 o-##+k
 ##-k+o
 o-n+o
-t-##+m
 g-##+o
 ##-o+l
 d-u+s
@@ -923,7 +903,6 @@ k-##+d
 k-a+k
 k-a+ng
 k-a+p
-p-##+l
 ##-l+a
 t-a+l
 a-l+##
@@ -965,7 +944,6 @@ a-k+o
 k-o+l
 o-l+a
 l-a+d
-d-##
 k-o+m
 m-o+d
 o-d+a
@@ -981,7 +959,6 @@ r-a+w
 a-w+a
 w-a+t
 k-r+##
-r-##+d
 ##-d+i
 k-r+i
 r-i+f
@@ -1035,7 +1012,6 @@ l-u+ng
 u-a+m
 r-i+n
 a-r+##
-r-##+l
 r-i+u
 k-u+i
 u-i+f
@@ -1056,11 +1032,9 @@ u-n+k
 k-u+r
 k-u+t
 a-k+w
-k-w+a
 a+l
 ng-k+a
 a-f
-l-##
 l-##+b
 ##-b+##
 l-##+h
@@ -1094,7 +1068,6 @@ n-o
 l-b+u
 b-u+g
 u-g+i
-n-##+a
 ##-a
 b-u+m
 u-m+##
@@ -1226,7 +1199,6 @@ l-o+n
 l-o+p
 o-p+a
 o-p+##
-p-##+s
 l-o+t
 o-t+r
 o-p+i
@@ -1335,7 +1307,6 @@ i-a+r
 a-r+t
 r-t+r
 f-i+b
-t-##+a
 ##-a+t
 m-f+o
 o-t+##
@@ -1344,7 +1315,6 @@ i-g+d
 g-d+a
 m-i+l
 i-l+o
-p-##+k
 h-a+r
 h-a+j
 a-j
@@ -1367,9 +1337,7 @@ a-m+p
 m-p+a
 p-a+ng
 p-a+s
-p-##+a
 ##-a+n
-r-##+m
 m-p+i
 p-i+s
 m-p+l
@@ -1443,7 +1411,6 @@ r-a+h
 d-##+ng
 d-##+r
 d-##+w
-##-w+i
 i-l+##
 n-d+o
 d-o+k
@@ -1451,14 +1418,11 @@ d-o+ng
 w-i+n
 d-u+ng
 d-u+r
-n-##+h
-n-##+k
 ##-k+d
 k-d+o
 d-o+t
 ##-m+o
 m-o+m
-n-##+u
 ##-u+p
 u-p+l
 p-l+##
@@ -1589,7 +1553,6 @@ r-m+o
 m-o+l
 r-m+u
 r-n+##
-n-##+g
 a-r+p
 r-p+l
 r-p+r
@@ -1613,17 +1576,12 @@ l-a+y
 y-a+h
 t-a+w
 w-a+c
-t-##+d
-t-##+f
-t-##+k
 ##-k+##
-t-##+l
 ##-l+m
 l-m+i
 d-i+##
 i-##+m
 t-##+ng
-t-##+p
 d-i+u
 r-o
 s-##+d
@@ -1640,7 +1598,6 @@ d-i+o
 i-o+k
 i-u+r
 u-r+##
-r-##+t
 i-d+o
 t-i+##
 ##-n+z
@@ -1663,7 +1620,6 @@ i-k+r
 t-i+p
 p-a+r
 i-k+##
-p-##+n
 n-a+w
 i-p+i
 p-i+r
@@ -1694,7 +1650,6 @@ o-f+a
 f-a+g
 p-o+g
 ##-o+g
-p-##+d
 p-o+l
 p-o+m
 p-o+n
@@ -1736,7 +1691,6 @@ r-t+h
 t-h+##
 h-##+d
 t-o+t
-p-##+p
 ##-r+s
 a-p+h
 p-h+##
@@ -1784,7 +1738,6 @@ r-u+t
 r-a+sy
 a-sy
 a-a
-r-##+r
 r-b+o
 ##-a+l
 ##-t+u
@@ -1792,7 +1745,6 @@ t-u+m
 a-r+c
 r-c+a
 c-a+s
-r-##+o
 ##-o+m
 ##-r+u
 i-r+o
@@ -1897,7 +1849,6 @@ a-g+f
 g-f+i
 u-l+l
 n-o+p
-t-##+o
 ##-o+s
 i-g+m
 g-m+a
@@ -1923,7 +1874,6 @@ a-sy+u
 sy-u+r
 a+t
 t-a+f
-t-##+b
 ##-b+r
 a-t+f
 t-f+a
@@ -1959,7 +1909,6 @@ m-o+b
 m-o+t
 s-o+m
 ##+z
-##-z+u
 z-u+b
 u-b+i
 f-##+s
@@ -1982,7 +1931,6 @@ w-a+b
 a-w+##
 w-##
 w-a+k
-l-##+ng
 ng-a+s
 w-a+m
 r-a+c
@@ -2050,7 +1998,6 @@ c-u+t
 d-u+i
 u-i
 d-u+y
-u-y+u
 b-a+f
 f-t+a
 b-a+g
@@ -2105,7 +2052,6 @@ l-i+u
 i-u
 a-l+n
 l-n+##
-n-##+o
 r-a+p
 l-s+a
 l-u+i
@@ -2146,16 +2092,13 @@ a-n+z
 n-z+##
 b-a+o
 b-a+p
-p-##+t
 r-a+a
 a-a+t
 g-a+j
 t-u+h
 a-t+b
 t-b+a
-r-##+b
 r-b+u
-r-##+p
 i-##+r
 i-s+f
 r-k+o
@@ -2263,7 +2206,6 @@ l-u+w
 u-w+##
 w-##+k
 d-u+a
-n-##+f
 ng-b+##
 ##-ng+u
 ng-a+p
@@ -2289,7 +2231,6 @@ j-u+t
 ##-n+k
 n-k+a
 ng-u+r
-t-##+h
 b-##+ny
 ##-ny+##
 ny-##
@@ -2317,8 +2258,6 @@ r-d+u
 k-b+##
 ##-ng+b
 ng-o+s
-r-##+w
-##-w+o
 w-o+k
 ##-r+h
 r-h+a
@@ -2414,7 +2353,6 @@ k-b+l
 z-##+r
 ##-p+o
 l-##+w
-##-w+a
 b-l+o
 o-k+n
 l-o+w
@@ -2474,7 +2412,6 @@ b-o+p
 p-o+ng
 o-r+c
 r-c+i
-r-##+h
 o-r+h
 o-r+j
 r-j+u
@@ -2516,7 +2453,6 @@ u-d+##
 b+u
 u-a+h
 b-u+##
-u-##
 u-a+y
 y-a+b
 u-b+o
@@ -2588,9 +2524,7 @@ t-b+u
 u-t+##
 o-ng+p
 b-u+w
-u-w+u
 w-u+h
-u-y+a
 b+y
 c+a
 c-a+b
@@ -2663,7 +2597,6 @@ c-##+n
 a-l+c
 l-c+##
 d-u+##
-n-##+l
 r-c+##
 ng-##+h
 ng-##+ng
@@ -2680,7 +2613,6 @@ c-##+p
 ##-p+##
 p-i+##
 ##-p+l
-r-##+c
 r-i+c
 i-c+##
 c-i+p
@@ -2757,7 +2689,6 @@ u-ng+o
 u-p+i
 t-b+r
 c-u+w
-u-w+i
 d+a
 d-a+a
 a-a+y
@@ -2782,7 +2713,6 @@ k-o+c
 a-ng+d
 ng-d+u
 ng-h+y
-h-y+a
 d-a+ny
 p-a+d
 r-j+i
@@ -2845,7 +2775,6 @@ s-d+##
 s-##+g
 s-i+g
 i-n+f
-t-##+g
 s-m+o
 m-o+p
 o-y+##
@@ -2908,7 +2837,6 @@ m-##+m
 o-l+f
 s-o+p
 i-s+p
-r-##+u
 ##-u+n
 i-s+r
 s-r+u
@@ -2926,7 +2854,6 @@ g-##+ng
 o-g+m
 h-o+k
 o-h+y
-h-y+o
 o-k+d
 o-l+d
 l-d+r
@@ -3008,7 +2935,6 @@ s-u+d
 u-i+n
 k-o+a
 o-a+g
-p-##+u
 p-s+##
 ##-l+p
 l-p+i
@@ -3069,8 +2995,6 @@ f-a+p
 n-s+p
 ##+w
 ##+y
-##-y+a
-##-y+##
 y-##+l
 f+a
 f-a+a
@@ -3220,7 +3144,6 @@ g-##+j
 ##-j+o
 j-o+s
 ##-j+u
-l-##+ny
 l-i+c
 i-g+n
 g-n+i
@@ -3229,7 +3152,6 @@ j-o+h
 u-g+u
 o-b+y
 y-o+s
-u-w+o
 j-o+t
 j-##+r
 n-j+r
@@ -3247,7 +3169,6 @@ o-h+i
 m-s+u
 r-a+ny
 a-s+g
-r-##+j
 r-##+ny
 ny-##+ng
 ny-##+t
@@ -3351,7 +3272,6 @@ g-u+ny
 u-s+r
 s-r+##
 g-u+y
-u-y+o
 y-u+b
 h+a
 a-b+sy
@@ -3421,7 +3341,6 @@ h-i+ng
 h-i+o
 h-i+p
 r-k+r
-p-##+m
 p-n+o
 o-m+n
 t-u+i
@@ -3520,7 +3439,6 @@ l-##+u
 ##-u+m
 m-u
 m-u+w
-u-w+a
 i+m
 m-a+j
 ng-i+m
@@ -3564,7 +3482,6 @@ r-g+l
 r-j+##
 r-l+u
 m-##+z
-##-z+o
 z-o
 r-z+o
 u-s+k
@@ -3635,7 +3552,6 @@ u-m+j
 m-j+a
 u-k+r
 j-##+h
-##-z+a
 j-a+y
 y-a+c
 i-h+n
@@ -3648,7 +3564,6 @@ l-##+j
 l-u+j
 m-u+j
 n-a+z
-n-##+w
 ng-u+h
 i-k+j
 k-j+##
@@ -3800,7 +3715,6 @@ t-k+##
 ny-i+h
 ##-o+ng
 p-a+y
-p-##+c
 p-u+y
 p-k+##
 r-c+u
@@ -3826,7 +3740,6 @@ t-g+a
 ##-t+l
 u-i+r
 k-##+w
-##-w+u
 kh+a
 kh-a
 kh-a+b
@@ -3916,12 +3829,10 @@ n-p+##
 ny-a+s
 t-u+##
 f-##+y
-##-y+o
 k-o+ny
 k-o+o
 o-o+p
 o-o+r
-p-##+b
 p-b+a
 ##-l+r
 l-r+i
@@ -3971,7 +3882,6 @@ k-u+y
 y-u+p
 k+w
 k-w+##
-k-w+o
 w-o+s
 l+a
 l-a+a
@@ -4050,7 +3960,6 @@ h-m+u
 h-s+u
 h-w+u
 a-h+z
-h-z+u
 m+##
 a-o+p
 k-b+u
@@ -4065,9 +3974,7 @@ k-i+y
 a-k+j
 k-j+u
 a-k+y
-k-y+o
 a-k+z
-k-z+u
 s-u+##
 l-n+u
 n-a+j
@@ -4076,7 +3983,6 @@ g-y+a
 i-k+d
 n-i+p
 s-u+kh
-u-kh
 n-u+f
 n-u+w
 m-a+ny
@@ -4120,7 +4026,6 @@ a-z+k
 z-k+u
 z-m+u
 m+b
-k-y+u
 m-##+c
 b-y+t
 y-t+##
@@ -4138,7 +4043,6 @@ m-o+a
 c-l+a
 c-l+##
 c-l+o
-n-##+p
 p-a+a
 ng-i+a
 ng-i+c
@@ -4154,7 +4058,6 @@ p-o+y
 ##-s+j
 s-o+z
 m-##+u
-##-z+b
 m+i
 m-i+i
 i-i+o
@@ -4229,9 +4132,7 @@ u-t+l
 u-t+m
 w-a+f
 m-u+z
-u-z+a
 z-a+w
-u-z+h
 n+a
 a-a+m
 b-t+u
@@ -4241,19 +4142,15 @@ d-i+y
 i-y+i
 y-i+n
 n+##
-n-##+b
 n-a+kh
 a-kh+o
 kh-o+d
-n-##+z
 z-i+i
 n+d
-n-##+c
 n-##+##
 ##-##+k
 ##-##+m
 n-s+m
-##-w+t
 w-t+o
 ng+a
 a-k+ng
@@ -4313,7 +4210,6 @@ sy-u+s
 u-t+f
 i-##+a
 n-u+z
-u-z+u
 ny+##
 ny+a
 ny-a+ny
@@ -4353,7 +4249,6 @@ r-u+##
 o-b+f
 b-f+##
 b-f+i
-b-y+##
 o+c
 o+d
 o+##
@@ -4383,7 +4278,6 @@ o-o+l
 o+p
 CLASS="APPLE-TAB-SPAN"+STYLE="WHITE-SPACE:
 CLASS="APPLE-TAB-SPAN"-STYLE="WHITE-SPACE:+PRE;">
-STYLE="WHITE-SPACE:-PRE;">+</SPAN>"V,"
 PRE;">-</SPAN>"V,"+o
 </SPAN>"V,"-o+p
 r-s+p
@@ -4393,7 +4287,6 @@ b-s+p
 s-t+y
 t-y+l
 y-l+##
-##-w+h
 w-h+i
 p-a+c
 n-f
@@ -4434,10 +4327,8 @@ c-a+j
 y-u+w
 s-##+b
 s-o+w
-t-##+u
 a-t+g
 t-g+u
-p-##+h
 p-a+f
 p-a+w
 w-i+y
@@ -4445,8 +4336,6 @@ y-u+d
 p+e
 p-e+d
 e-d+a
-p-##+g
-p-##+j
 p-e+l
 ##-l+b
 l-p+l
@@ -4460,7 +4349,6 @@ e-ng+h
 p-##+ny
 p-e+ny
 e-ny+u
-p-##+o
 p-u+j
 ng-a+i
 i-a+a
@@ -4472,8 +4360,6 @@ r-s+n
 s-n+##
 p-e+t
 s-i+w
-p-##+w
-p-##+y
 p+h
 p-h+i
 p+i
@@ -4550,9 +4436,6 @@ i-u+l
 i-o+a
 r+##
 k-b+o
-k-y+a
-r-##+z
-##-z+i
 g-##+h
 ng-u+m
 ng-u+p
@@ -4565,11 +4448,9 @@ r-##+##
 u-i+##
 i-##+f
 i-k+w
-k-w+i
 r+e
 r-e+n
 ##-ng+r
-r-##+y
 r+h
 r-h+o
 r+i
@@ -4636,9 +4517,7 @@ t-b+o
 a-a+k
 b-a+##
 h-s+##
-k-##+##
 s-o+c
-t-##+w
 ##-t+t
 t-t+i
 s-##+w
@@ -4770,8 +4649,6 @@ y-u+l
 a-kh+t
 k-i+g
 o-a+h
-k-y+i
-k-z+i
 a-m+y
 m-y+i
 k-##+a
@@ -4789,12 +4666,10 @@ sy-b+i
 a-sy+d
 sy-d+i
 sy-h+i
-t-##+c
 z-k+i
 t+e
 t-e+h
 e-h
-t-##+j
 ##-k+p
 ##-l+g
 u-t+t
@@ -4804,9 +4679,6 @@ w-##+h
 ny-u+h
 i-u+j
 m-o+##
-r-w+##
-t-##+y
-t-##+z
 t+h
 t+i
 i-l+d
@@ -4875,7 +4747,6 @@ u+t
 u+w
 u+y
 u+z
-u-z+l
 z-l+a
 u-o+l
 f-##+c
@@ -4897,7 +4768,6 @@ f-o+d
 o-d+k
 d-k+a
 w+a
-h-y+u
 w+##
 w-##+sy
 ##-sy+a
@@ -4930,7 +4800,6 @@ m-t+u
 h-o+f
 y-##+n
 y-##+y
-##-y+u
 y+o
 y-o+d
 y-o+g
@@ -4942,7 +4811,6 @@ y-o+y
 y+u
 y-u+f
 y-u+y
-u-y+i
 z+a
 z-a+d
 z+##
