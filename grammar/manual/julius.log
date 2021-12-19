@@ -7,15 +7,18 @@ Stat: check_hmm_restriction: an HMM with several arcs from initial state found: 
 Stat: rdhmmdef: this HMM requires multipath handling at decoding
 Stat: rdhmmdef: no <SID> embedded
 Stat: rdhmmdef: assign SID by the order of appearance
-Stat: init_phmm: defined HMMs:    24
-Stat: init_phmm: logical names:    24
-Stat: init_phmm: base phones:    24 used in logical
+Stat: init_phmm: defined HMMs:   106
+Stat: init_phmm: loading ascii hmmlist
+Stat: init_phmm: logical names:   232 in HMMList
+Stat: init_phmm: base phones:    22 used in logical
 Stat: init_phmm: finished reading HMM definitions
 STAT: m_fusion: force multipath HMM handling by user request
+STAT: making pseudo bi/mono-phone for IW-triphone
+Stat: hmm_lookup: 163 pseudo phones are added to logical HMM list
 STAT: *** AM00 _default loaded
 STAT: *** loading LM00 _default
 STAT: reading [sample.dfa] and [sample.dict]...
-Stat: init_voca: read 19 words
+Stat: init_voca: read 18 words
 STAT: done
 STAT: Gram #0 sample registered
 STAT: Gram #0 sample: new grammar loaded, now mash it up for recognition
@@ -33,7 +36,7 @@ STAT: 1 MFCC modules created
 STAT: [2] create recognition processing instance(s) with AM and LM
 STAT: composing recognizer instance SR00 _default (AM00 _default, LM00 _default)
 STAT: Building HMM lexicon tree
-STAT: lexicon size: 309 nodes
+STAT: lexicon size: 311 nodes
 STAT: coordination check passed
 STAT: multi-gram: beam width set to 200 (guess) by lexicon change
 STAT: wchmm (re)build completed
@@ -63,7 +66,8 @@ Configuration of Modules
 
  Acoustic Model (with input parameter spec.):
  - AM00 "_default"
-	hmmfilename=hmm9/hmmdefs
+	hmmfilename=hmm15/hmmdefs
+	hmmmapfilename=tiedlist
 
  Language Model:
  - LM00 "_default"
@@ -113,8 +117,8 @@ Acoustic Model(s)
 [AM00 "_default"]
 
  HMM Info:
-    24 models, 69 states, 69 mpdfs, 69 Gaussians are defined
-	      model type = context dependency handling OFF
+    106 models, 139 states, 139 mpdfs, 139 Gaussians are defined
+	      model type = context dependency handling ON
       training parameter = MFCC_N_D_Z_0
 	   vector length = 25
 	number of stream = 1
@@ -123,7 +127,7 @@ Acoustic Model(s)
 	   duration type = NULLD
 	max mixture size = 1 Gaussians
      max length of model = 5 states
-     logical base phones = 24
+     logical base phones = 22
        model skip trans. = exist, require multi-path handling
       skippable models = sp (1 model(s))
 
@@ -144,8 +148,8 @@ Language Model(s)
       category-pair matrix: 44 bytes (896 bytes allocated)
 
  Vocabulary Info:
-        vocabulary size  = 19 words, 90 models
-        average word len = 4.7 models, 14.2 states
+        vocabulary size  = 18 words, 87 models
+        average word len = 4.8 models, 14.5 states
        maximum state num = 24 nodes per word
        transparent words = not exist
        words under class = not exist
@@ -159,9 +163,9 @@ Recognizer(s)
 [SR00 "_default"]  AM00 "_default"  +  LM00 "_default"
 
  Lexicon tree:
-	 total node num =    309
-	  root node num =     16
-	  leaf node num =     19
+	 total node num =    311
+	  root node num =     17
+	  leaf node num =     18
 
 	(-penalty1) IW penalty1 = +5.0
 	(-penalty2) IW penalty2 = +20.0
@@ -182,6 +186,9 @@ Recognizer(s)
 	(-sb)2nd scan beamthres = 200.0 (in logscore)
 	(-n)        search till = 1 candidates found
 	(-output)    and output = 1 candidates out of above
+	 IWCD handling:
+	   1st pass: approximation (use max. prob. of same LC)
+	   2nd pass: loose (apply when hypo. is popped and scanned)
 	 all possible words will be expanded in 2nd pass
 	 build_wchmm2() used
 	 lcdset limited by word-pair constraint
@@ -228,39 +235,15 @@ Notice for feature extraction (01),
 Stat: adin_portaudio: audio cycle buffer length = 256000 bytes
 Stat: adin_portaudio: sound capture devices:
   1 [MME: Microsoft Sound Mapper - Input]
-  2 [MME: Microphone (USB Audio Device)]
-  3 [MME: Microphone (High Definition Aud]
-  4 [MME: Microphone (Voicemod Virtual Au]
-  8 [Windows DirectSound: Primary Sound Capture Driver]
-  9 [Windows DirectSound: Microphone (USB Audio Device)]
-  10 [Windows DirectSound: Microphone (High Definition Audio Device)]
-  11 [Windows DirectSound: Microphone (Voicemod Virtual Audio Device (WDM))]
+  2 [MME: Microphone Array (Realtek(R) Au]
+  6 [Windows DirectSound: Primary Sound Capture Driver]
+  7 [Windows DirectSound: Microphone Array (Realtek(R) Audio)]
 Stat: adin_portaudio: APIs: DirectSound MME
 Stat: adin_portaudio: -- DirectSound selected
 Stat: adin_portaudio: [Windows DirectSound: Primary Sound Capture Driver]
 Stat: adin_portaudio: (you can specify device by "PORTAUDIO_DEV_NUM=number"
 Stat: adin_portaudio: try to set default low latency from portaudio: 0 msec
 Stat: adin_portaudio: latency was set to 0.000000 msec
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
 WARNING: 00 _default: hypothesis stack exhausted, terminate search now
 STAT: 00 _default: 0 sentences have been found
 WARNING: 00 _default: hypothesis stack exhausted, terminate search now
