@@ -1,92 +1,58 @@
-ABU             [ABU]           a b u sp
-AKTE            [AKTE]          a k t e sp
-AKU             [AKU]           a k u sp
-AMAN            [AMAN]          a m a n sp
-BAJA            [BAJA]          b a j a sp
-BAKSO           [BAKSO]         b a k s o sp
-BANTAL          [BANTAL]        b a n t a l sp
-BATU            [BATU]          b a t u sp
-BOLONG          [BOLONG]        b o l o ng sp
-BUKA            [BUKA]          b u k a sp
-BUNGA           [BUNGA]         b u ng a sp
-CACI            [CACI]          c a c i sp
-CELAKA          [CELAKA]        c e l a k a sp
-DUDUK           [DUDUK]         d u d u k sp
-DUKA            [DUKA]          d u k a sp
-EMPUK           [EMPUK]         e m p u k sp
-GERSANG         [GERSANG]       g e r s a ng sp
-HADI            [HADI]          h a d i sp
-HAI             [HAI]           h a i sp
-HALO            [HALO]          h a l o sp
-HARUM           [HARUM]         h a r u m sp
-HIDUPKAN        [HIDUPKAN]      h i d u p k a n sp
-HOTEL           [HOTEL]         h o t e l sp
-IDAMAN          [IDAMAN]        i d a m a n sp
-IGLO            [IGLO]          i g l o sp
-JAGA            [JAGA]          j a g a sp
-KOPI            [KOPI]          k o p i sp
-KULKAS          [KULKAS]        k u l k a s sp
-LACI            [LACI]          l a c i sp
-LAMPU           [LAMPU]         l a m p u sp
-LOMBOK          [LOMBOK]        l o m b o k sp
-MAKAN           [MAKAN]         m a k a n sp
-MALAM           [MALAM]         m a l a m sp
-MANGGA          [MANGGA]        m a ng g a sp
-MARAH           [MARAH]         m a r a h sp
-MATIKAN         [MATIKAN]       m a t i k a n sp
-MEJA            [MEJA]          m e j a sp
-MENTEGA         [MENTEGA]       m e n t e g a sp
-MINUM           [MINUM]         m i n u m sp
-MUSANG          [MUSANG]        m u s a ng sp
-NYALAKAN        [NYALAKAN]      ny a l a k a n sp
-NYAMAN          [NYAMAN]        ny a m a n sp
-NYATA           [NYATA]         ny a t a sp
-NYEBUR          [NYEBUR]        ny e b u r sp
-NYETAK          [NYETAK]        ny e t a k sp
-NYONYA          [NYONYA]        ny o ny a sp
-NYURUH          [NYURUH]        ny u r u h sp
-PAGI            [PAGI]          p a g i sp
-PAKU            [PAKU]          p a k u sp
-PASANG          [PASANG]        p a s a ng sp
-PEDANG          [PEDANG]        p e d a ng sp
-PELANGI         [PELANGI]       p e l a ng i sp
-PENDINGIN       [PENDINGIN]     p e n d i ng i n sp
-PENGHANGAT      [PENGHANGAT]    p e ng h a ng a t sp
-PENYU           [PENYU]         p e ny u sp
-PETA            [PETA]          p e t a sp
-PETAKA          [PETAKA]        p e t a k a sp
-PIDATO          [PIDATO]        p i d a t o sp
-PINTU           [PINTU]         p i n t u sp
-PIPI            [PIPI]          p i p i sp
-PISANG          [PISANG]        p i s a ng sp
-POLO            [POLO]          p o l o sp
-PUKUL           [PUKUL]         p u k u l sp
-RABU            [RABU]          r a b u sp
-RAJA            [RAJA]          r a j a sp
-RENDANG         [RENDANG]       r e n d a ng sp
-RINDANG         [RINDANG]       r i n d a ng sp
-RUMAH           [RUMAH]         r u m a h sp
-RUTE            [RUTE]          r u t e sp
-SALAH           [SALAH]         s a l a h sp
-SAMA            [SAMA]          s a m a sp
-SANGAT          [SANGAT]        s a ng a t sp
-SAPI            [SAPI]          s a p i sp
-SATE            [SATE]          s a t e sp
-SATU            [SATU]          s a t u sp
-SENT-END        [SENT-END]      sil
-SENT-START      [SENT-START]    sil
-SIANG           [SIANG]         s i a ng sp
-SORE            [SORE]          s o r e sp
-SOTO            [SOTO]          s o t o sp
-SUKA            [SUKA]          s u k a sp
-SUMPIT          [SUMPIT]        s u m p i t sp
-SUMUR           [SUMUR]         s u m u r sp
-SUVENIR         [SUVENIR]       s u f e n i r sp
-TAPI            [TAPI]          t a p i sp
-TEGA            [TEGA]          t e g a sp
-TEH             [TEH]           t e h sp
-TIGA            [TIGA]          t i g a sp
-TUTUP           [TUTUP]         t u t u p sp
-TV              [TV]            t i f i sp
-USANG           [USANG]         u s a ng sp
-VIOLET          [VIOLET]        f i o l e t sp
+ABAH            [ABAH]          aa b aa hh sp
+ABUL            [ABUL]          aa b uw l sp
+ADIB            [ADIB]          aa d ih b sp
+AGROBIS         [AGROBIS]       aa g r ao b ih s sp
+AGROBISNIS      [AGROBISNIS]    aa g r ao b ih s n ih s sp
+AKBAR           [AKBAR]         aa k b aa r sp
+AKIBAT          [AKIBAT]        aa k ih b aa t sp
+AKOR            [AKOR]          aa k ao r sp
+AKTOR           [AKTOR]         aa k t ao r sp
+AKUMULATOR      [AKUMULATOR]    aa k uw m uw l aa t ao r sp
+ALKOHOL         [ALKOHOL]       aa l k ao hh ao l sp
+ALOFON          [ALOFON]        aa l ao f ao n sp
+BANYAK          [BANYAK]        b aa ny aa k sp
+BIDO            [BIDO]          b ih d ao sp
+BILOKAL         [BILOKAL]       b ih l ao k aa l sp
+BIODATA         [BIODATA]       b ih ao d aa t aa sp
+BUKA            [BUKA]          b uw k aa sp
+DAGANG          [DAGANG]        d aa g aa ng sp
+DAGU            [DAGU]          d aa g uw sp
+DAHAGA          [DAHAGA]        d aa hh aa g aa sp
+DAHAK           [DAHAK]         d aa hh aa k sp
+DAHULU          [DAHULU]        d aa hh uw l uw sp
+DALIH           [DALIH]         d aa l ih hh sp
+DIAGONAL        [DIAGONAL]      d ih aa g ao n aa l sp
+DIALOG          [DIALOG]        d ih aa l ao g sp
+FADIL           [FADIL]         f aa d ih l sp
+FAKSI           [FAKSI]         f aa k s ih sp
+FALAH           [FALAH]         f aa l aa hh sp
+FANA            [FANA]          f aa n aa sp
+FARDU           [FARDU]         f aa r d uw sp
+FARISI          [FARISI]        f aa r ih s ih sp
+GANYAH          [GANYAH]        g aa ny aa hh sp
+HALO            [HALO]          hh aa l ao sp
+HANYA           [HANYA]         hh aa ny aa sp
+HANYUT          [HANYUT]        hh aa ny uw t sp
+KONYOL          [KONYOL]        k ao ny ao l sp
+KULKAS          [KULKAS]        k uw l k aa s sp
+KUNYAH          [KUNYAH]        k uw ny aa hh sp
+KUNYIT          [KUNYIT]        k uw ny ih t sp
+LAMPU           [LAMPU]         l aa m p uw sp
+MAKANYA         [MAKANYA]       m aa k aa ny aa sp
+MALAM           [MALAM]         m aa l aa m sp
+MANYALA         [MANYALA]       m aa ny aa l aa sp
+MATIKAN         [MATIKAN]       m aa t ih k aa n sp
+NYALAKAN        [NYALAKAN]      ny aa l aa k aa n sp
+PAGI            [PAGI]          p aa g ih sp
+PENDINGIN       [PENDINGIN]     p eh n d ih ng ih n sp
+PENGHANGAT      [PENGHANGAT]    p eh ng hh aa ng aa t sp
+PINTU           [PINTU]         p ih n t uw sp
+REM             [REM]           r eh m sp
+RUMAH           [RUMAH]         r uw m aa hh sp
+SATE            [SATE]          s aa t eh sp
+SENT-END        []              sil
+SENT-START      []              sil
+SIANG           [SIANG]         s ih aa ng sp
+SORE            [SORE]          s ao r eh sp
+TUTUP           [TUTUP]         t uw t uw p sp
+TV              [TV]            t ih f ih sp

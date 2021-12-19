@@ -1,38 +1,36 @@
-WARNING: no script file lexicon/IndoDict.txt.ded
+WARNING: no script file lexicon/IndoDict_new.txt.ded
 
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-IndoDict.txt     29732         92      29732         92
-        dict        92         92         92         92
+IndoDict_new     29169         58      29169         58
+        dict        58         58         58         58
 
-92 words required, 0 missing
+58 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. a     :    86
-  2. b     :    11
-  3. u     :    35
-  4. sp    :    90
-  5. k     :    21
-  6. t     :    27
-  7. e     :    25
-  8. m     :    22
-  9. n     :    16
- 10. j     :     4
- 11. s     :    20
- 12. o     :    17
- 13. l     :    17
- 14. ng    :    17
- 15. c     :     4
- 16. i     :    29
- 17. d     :    11
- 18. p     :    25
- 19. g     :     8
- 20. r     :    14
- 21. h     :    12
- 22. ny    :     9
- 23. sil   :     2
- 24. f     :     3
+  1. aa    :    71
+  2. b     :    12
+  3. hh    :    14
+  4. sp    :    56
+  5. uw    :    17
+  6. l     :    20
+  7. d     :    14
+  8. ih    :    24
+  9. g     :     9
+ 10. r     :    11
+ 11. ao    :    18
+ 12. s     :     9
+ 13. n     :     9
+ 14. k     :    19
+ 15. t     :    13
+ 16. m     :     9
+ 17. f     :     8
+ 18. ny    :    10
+ 19. ng    :     5
+ 20. p     :     6
+ 21. eh    :     5
+ 22. sil   :     2
 
 Dictionary dict created
