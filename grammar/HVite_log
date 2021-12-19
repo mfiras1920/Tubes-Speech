@@ -13,188 +13,173 @@ HTK Configuration Parameters[10]
 #                 TARGETRATE         100000.000000
 #                 TARGETKIND          MFCC_0_D_N_Z
 
-Read 24 physical / 24 logical HMMs
+Read 22 physical / 22 logical HMMs
 Label file will be used to align each file
 Aligning File: train/mfcc/sample1.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HAI HALO PAGI RUMAH MATIKAN LAMPU HIDUPKAN PENGHANGAT SENT-END  ==  [738 frames] -49.3495 [Ac=-36419.9 LM=0.0] (Act=7.9)
+SENT-END SIANG HALO PAGI RUMAH MATIKAN LAMPU NYALAKAN PENGHANGAT SENT-END  ==  [778 frames] -47.9906 [Ac=-37336.7 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample2.mfc
 Created lattice with 11 nodes / 10 arcs from label file
-SENT-END HALO SIANG RUMAH BUKA PINTU BUKA KULKAS NYALAKAN PENDINGIN SENT-END  ==  [856 frames] -48.3976 [Ac=-41428.3 LM=0.0] (Act=7.3)
+SENT-END HALO SIANG RUMAH BUKA PINTU BUKA KULKAS NYALAKAN PENDINGIN SENT-END  ==  [841 frames] -47.2264 [Ac=-39717.4 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample3.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END HALO SIANG SORE RUMAH NYALAKAN TV TUTUP KULKAS TUTUP PINTU SENT-END  ==  [917 frames] -49.0346 [Ac=-44964.7 LM=0.0] (Act=6.8)
+SENT-END HALO SIANG SORE RUMAH NYALAKAN TV TUTUP KULKAS TUTUP PINTU SENT-END  ==  [934 frames] -47.3745 [Ac=-44247.8 LM=0.0] (Act=6.2)
 Aligning File: train/mfcc/sample4.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYALAKAN LAMPU MATIKAN LAMPU MALAM RUMAH HALO HAI SENT-END  ==  [812 frames] -47.9588 [Ac=-38942.5 LM=0.0] (Act=7.4)
+SENT-END NYALAKAN LAMPU MATIKAN LAMPU MALAM RUMAH HALO SIANG SENT-END  ==  [793 frames] -47.0666 [Ac=-37323.8 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample5.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA TUTUP PINTU KULKAS RUMAH MATIKAN TV PAGI SENT-END  ==  [924 frames] -46.6685 [Ac=-43121.7 LM=0.0] (Act=7.3)
+SENT-END BUKA TUTUP PINTU KULKAS RUMAH MATIKAN TV PAGI SENT-END  ==  [796 frames] -47.3018 [Ac=-37652.2 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample6.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END TUTUP PINTU RUMAH MATIKAN PENGHANGAT BUKA KULKAS SENT-END  ==  [812 frames] -48.5488 [Ac=-39421.7 LM=0.0] (Act=8.4)
+SENT-END TUTUP PINTU RUMAH MATIKAN PENGHANGAT BUKA KULKAS SENT-END  ==  [723 frames] -47.0532 [Ac=-34019.4 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample7.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH SORE RUMAH MALAM RUMAH MATIKAN LAMPU SENT-END  ==  [826 frames] -46.5644 [Ac=-38462.2 LM=0.0] (Act=7.0)
+SENT-END PAGI RUMAH SORE RUMAH MALAM RUMAH MATIKAN LAMPU SENT-END  ==  [748 frames] -48.1475 [Ac=-36014.3 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample8.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END MATIKAN LAMPU KULKAS NYALAKAN PENDINGIN HAI RUMAH SENT-END  ==  [795 frames] -46.9364 [Ac=-37314.4 LM=0.0] (Act=6.9)
+SENT-END MATIKAN LAMPU KULKAS NYALAKAN PENDINGIN SIANG RUMAH SENT-END  ==  [785 frames] -48.5572 [Ac=-38117.4 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample9.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA PINTU BUKA KULKAS TUTUP PINTU TUTUP KULKAS SENT-END  ==  [868 frames] -44.6323 [Ac=-38740.8 LM=0.0] (Act=7.8)
+SENT-END BUKA PINTU BUKA KULKAS TUTUP PINTU TUTUP KULKAS SENT-END  ==  [841 frames] -46.5486 [Ac=-39147.4 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample10.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END SIANG RUMAH NYALAKAN PENGHANGAT HALO KULKAS TUTUP PINTU SENT-END  ==  [898 frames] -45.0913 [Ac=-40492.0 LM=0.0] (Act=7.2)
+SENT-END SIANG RUMAH NYALAKAN PENGHANGAT HALO KULKAS TUTUP PINTU SENT-END  ==  [778 frames] -47.7495 [Ac=-37149.1 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample11.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MATIKAN PENDINGIN MALAM TV HAI RUMAH HALO KULKAS SENT-END  ==  [851 frames] -46.1678 [Ac=-39288.8 LM=0.0] (Act=7.7)
+SENT-END MATIKAN PENDINGIN MALAM TV SIANG RUMAH HALO KULKAS SENT-END  ==  [862 frames] -46.8568 [Ac=-40390.5 LM=0.0] (Act=6.8)
 Aligning File: train/mfcc/sample12.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END TUTUP KULKAS PENDINGIN PENGHANGAT HAI TV HALO RUMAH SENT-END  ==  [917 frames] -45.1656 [Ac=-41416.8 LM=0.0] (Act=8.1)
+SENT-END TUTUP KULKAS PENDINGIN PENGHANGAT SIANG TV HALO RUMAH SENT-END  ==  [815 frames] -48.0324 [Ac=-39146.4 LM=0.0] (Act=6.9)
 Aligning File: train/mfcc/sample13.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI SIANG SORE KULKAS MALAM TV HAI RUMAH SENT-END  ==  [920 frames] -45.0572 [Ac=-41452.6 LM=0.0] (Act=7.4)
+SENT-END PAGI SIANG SORE KULKAS MALAM TV SIANG RUMAH SENT-END  ==  [828 frames] -47.8691 [Ac=-39635.6 LM=0.0] (Act=6.8)
 Aligning File: train/mfcc/sample14.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO MALAM HAI PAGI MATIKAN RUMAH PINTU KULKAS SENT-END  ==  [831 frames] -45.6814 [Ac=-37961.2 LM=0.0] (Act=7.8)
+SENT-END HALO MALAM SIANG PAGI MATIKAN RUMAH PINTU KULKAS SENT-END  ==  [871 frames] -46.5476 [Ac=-40542.9 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample15.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END NYALAKAN KULKAS TUTUP TV MATIKAN NYALAKAN LAMPU SENT-END  ==  [781 frames] -45.0960 [Ac=-35220.0 LM=0.0] (Act=6.9)
+SENT-END NYALAKAN KULKAS TUTUP TV MATIKAN NYALAKAN LAMPU SENT-END  ==  [877 frames] -47.1165 [Ac=-41321.1 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample16.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END MALAM RUMAH NYALAKAN LAMPU MATIKAN PENDINGIN PENGHANGAT SENT-END  ==  [792 frames] -44.3748 [Ac=-35144.8 LM=0.0] (Act=7.5)
+SENT-END MALAM RUMAH NYALAKAN LAMPU MATIKAN PENDINGIN PENGHANGAT SENT-END  ==  [760 frames] -47.3612 [Ac=-35994.5 LM=0.0] (Act=7.1)
 Aligning File: train/mfcc/sample17.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO LAMPU NYALAKAN TV PENGHANGAT RUMAH HAI PENDINGIN SENT-END  ==  [891 frames] -45.5972 [Ac=-40627.1 LM=0.0] (Act=7.8)
+SENT-END HALO LAMPU NYALAKAN TV PENGHANGAT RUMAH SIANG PENDINGIN SENT-END  ==  [868 frames] -46.4899 [Ac=-40353.3 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample18.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH NYALAKAN LAMPU MATIKAN PENDINGIN NYALAKAN PENGHANGAT SENT-END  ==  [912 frames] -45.3872 [Ac=-41393.1 LM=0.0] (Act=7.5)
+SENT-END PAGI RUMAH NYALAKAN LAMPU MATIKAN PENDINGIN NYALAKAN PENGHANGAT SENT-END  ==  [912 frames] -46.6603 [Ac=-42554.2 LM=0.0] (Act=7.0)
 Aligning File: train/mfcc/sample19.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH MATIKAN PENDINGIN NYALAKAN PENGHANGAT BUKA PINTU SENT-END  ==  [930 frames] -44.6574 [Ac=-41531.4 LM=0.0] (Act=7.3)
+SENT-END PAGI RUMAH MATIKAN PENDINGIN NYALAKAN PENGHANGAT BUKA PINTU SENT-END  ==  [940 frames] -45.6703 [Ac=-42930.1 LM=0.0] (Act=6.9)
 Aligning File: train/mfcc/sample20.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END SIANG RUMAH BUKA PINTU TUTUP PINTU NYALAKAN LAMPU SENT-END  ==  [858 frames] -45.3696 [Ac=-38927.1 LM=0.0] (Act=7.2)
+SENT-END SIANG RUMAH BUKA PINTU TUTUP PINTU NYALAKAN LAMPU SENT-END  ==  [828 frames] -46.1398 [Ac=-38203.8 LM=0.0] (Act=6.2)
 Aligning File: train/mfcc/sample21.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END SIANG RUMAH MATIKAN LAMPU BUKA PINTU TUTUP PINTU SENT-END  ==  [930 frames] -44.7883 [Ac=-41653.1 LM=0.0] (Act=7.4)
+SENT-END SIANG RUMAH MATIKAN LAMPU BUKA PINTU TUTUP PINTU SENT-END  ==  [838 frames] -47.0122 [Ac=-39396.2 LM=0.0] (Act=7.2)
 Aligning File: train/mfcc/sample22.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END SORE RUMAH BUKA KULKAS TUTUP KULKAS NYALAKAN LAMPU SENT-END  ==  [854 frames] -46.6382 [Ac=-39829.0 LM=0.0] (Act=6.9)
+SENT-END SORE RUMAH BUKA KULKAS TUTUP KULKAS NYALAKAN LAMPU SENT-END  ==  [834 frames] -47.5402 [Ac=-39648.6 LM=0.0] (Act=6.1)
 Aligning File: train/mfcc/sample23.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MALAM RUMAH BUKA KULKAS TUTUP KULKAS NYALAKAN PENGHANGAT SENT-END  ==  [927 frames] -45.9888 [Ac=-42631.6 LM=0.0] (Act=6.9)
+SENT-END MALAM RUMAH BUKA KULKAS TUTUP KULKAS NYALAKAN PENGHANGAT SENT-END  ==  [822 frames] -47.5961 [Ac=-39124.0 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample24.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO RUMAH MATIKAN PENDINGIN NYALAKAN TV MATIKAN LAMPU SENT-END  ==  [854 frames] -48.9473 [Ac=-41801.0 LM=0.0] (Act=7.3)
+SENT-END HALO RUMAH MATIKAN PENDINGIN NYALAKAN TV MATIKAN LAMPU SENT-END  ==  [854 frames] -47.6348 [Ac=-40680.1 LM=0.0] (Act=7.0)
 Aligning File: train/mfcc/sample25.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO RUMAH NYALAKAN LAMPU NYALAKAN PENDINGIN NYALAKAN TV SENT-END  ==  [911 frames] -46.9992 [Ac=-42816.3 LM=0.0] (Act=7.2)
+SENT-END HALO RUMAH NYALAKAN LAMPU NYALAKAN PENDINGIN NYALAKAN TV SENT-END  ==  [846 frames] -45.8307 [Ac=-38772.8 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample26.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MALAM RUMAH BUKA KULKAS TUTUP KULKAS MATIKAN PENDINGIN SENT-END  ==  [944 frames] -45.0716 [Ac=-42547.6 LM=0.0] (Act=7.1)
+SENT-END MALAM RUMAH BUKA KULKAS TUTUP KULKAS MATIKAN PENDINGIN SENT-END  ==  [808 frames] -46.8682 [Ac=-37869.5 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample27.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH MATIKAN LAMPU MATIKAN PENDINGIN NYALAKAN TV SENT-END  ==  [925 frames] -44.9068 [Ac=-41538.8 LM=0.0] (Act=7.1)
+SENT-END PAGI RUMAH MATIKAN LAMPU MATIKAN PENDINGIN NYALAKAN TV SENT-END  ==  [811 frames] -47.6883 [Ac=-38675.3 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample28.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH NYALAKAN TV NYALAKAN PENDINGIN BUKA PINTU SENT-END  ==  [937 frames] -44.1198 [Ac=-41340.2 LM=0.0] (Act=7.1)
+SENT-END PAGI RUMAH NYALAKAN TV NYALAKAN PENDINGIN BUKA PINTU SENT-END  ==  [816 frames] -52.0418 [Ac=-42466.1 LM=0.0] (Act=7.9)
 Aligning File: train/mfcc/sample29.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH BUKA PINTU TUTUP PINTU BUKA PINTU SENT-END  ==  [927 frames] -42.9749 [Ac=-39837.8 LM=0.0] (Act=8.0)
+SENT-END PAGI RUMAH BUKA PINTU TUTUP PINTU BUKA PINTU SENT-END  ==  [813 frames] -45.3580 [Ac=-36876.0 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample30.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PAGI RUMAH SIANG RUMAH SORE RUMAH MALAM RUMAH SENT-END  ==  [871 frames] -42.9553 [Ac=-37414.0 LM=0.0] (Act=7.2)
+SENT-END PAGI RUMAH SIANG RUMAH SORE RUMAH MALAM RUMAH SENT-END  ==  [765 frames] -46.3541 [Ac=-35460.9 LM=0.0] (Act=6.3)
 Aligning File: train/mfcc/sample31.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO RUMAH HAI RUMAH BUKA PINTU TUTUP PINTU SENT-END  ==  [824 frames] -44.1041 [Ac=-36341.8 LM=0.0] (Act=8.0)
+SENT-END HALO RUMAH SIANG RUMAH BUKA PINTU TUTUP PINTU SENT-END  ==  [808 frames] -44.7985 [Ac=-36197.2 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample32.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA KULKAS TUTUP KULKAS BUKA PINTU TUTUP PINTU SENT-END  ==  [824 frames] -44.8240 [Ac=-36935.0 LM=0.0] (Act=8.0)
+SENT-END BUKA KULKAS TUTUP KULKAS BUKA PINTU TUTUP PINTU SENT-END  ==  [766 frames] -46.3711 [Ac=-35520.2 LM=0.0] (Act=6.2)
 Aligning File: train/mfcc/sample33.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYALAKAN LAMPU NYALAKAN TV NYALAKAN PENGHANGAT NYALAKAN PENDINGIN SENT-END  ==  [789 frames] -46.4997 [Ac=-36688.2 LM=0.0] (Act=7.1)
+SENT-END NYALAKAN LAMPU NYALAKAN TV NYALAKAN PENGHANGAT NYALAKAN PENDINGIN SENT-END  ==  [855 frames] -46.7906 [Ac=-40006.0 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample34.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYALAKAN TV HALO PINTU BUKA PENDINGIN MATIKAN MALAM SENT-END  ==  [824 frames] -46.1378 [Ac=-38017.5 LM=0.0] (Act=7.4)
+SENT-END NYALAKAN TV HALO PINTU BUKA PENDINGIN MATIKAN MALAM SENT-END  ==  [824 frames] -46.6430 [Ac=-38433.8 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample35.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO HAI PAGI SIANG SORE MALAM LAMPU TV SENT-END  ==  [805 frames] -46.3465 [Ac=-37308.9 LM=0.0] (Act=7.8)
+SENT-END HALO SIANG PAGI SIANG SORE MALAM LAMPU TV SENT-END  ==  [766 frames] -47.6947 [Ac=-36534.2 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample36.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END LAMPU NYALAKAN TV PENDINGIN RUMAH MALAM HAI SENT-END  ==  [778 frames] -45.3411 [Ac=-35275.3 LM=0.0] (Act=7.1)
+SENT-END LAMPU NYALAKAN TV PENDINGIN RUMAH MALAM SIANG SENT-END  ==  [733 frames] -45.4038 [Ac=-33281.0 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample37.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END RUMAH MATIKAN PENGHANGAT TV PAGI SORE PINTU KULKAS SENT-END  ==  [862 frames] -46.5792 [Ac=-40151.3 LM=0.0] (Act=7.1)
+SENT-END RUMAH MATIKAN PENGHANGAT TV PAGI SORE PINTU KULKAS SENT-END  ==  [798 frames] -46.6136 [Ac=-37197.7 LM=0.0] (Act=6.3)
 Aligning File: train/mfcc/sample38.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END LAMPU BUKA PINTU KULKAS SORE MALAM PENGHANGAT PENDINGIN SENT-END  ==  [793 frames] -47.7925 [Ac=-37899.5 LM=0.0] (Act=7.3)
+SENT-END LAMPU BUKA PINTU KULKAS SORE MALAM PENGHANGAT PENDINGIN SENT-END  ==  [891 frames] -46.5159 [Ac=-41445.7 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample39.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END TUTUP PINTU BUKA KULKAS BUKA RUMAH PAGI SORE SENT-END  ==  [778 frames] -46.7120 [Ac=-36341.9 LM=0.0] (Act=6.9)
+SENT-END TUTUP PINTU BUKA KULKAS BUKA RUMAH PAGI SORE SENT-END  ==  [775 frames] -46.0710 [Ac=-35705.0 LM=0.0] (Act=6.2)
 Aligning File: train/mfcc/sample40.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA RUMAH BUKA KULKAS BUKA LAMPU TUTUP TV SENT-END  ==  [783 frames] -46.9145 [Ac=-36734.1 LM=0.0] (Act=7.5)
+SENT-END BUKA RUMAH BUKA KULKAS BUKA LAMPU TUTUP TV SENT-END  ==  [770 frames] -46.3473 [Ac=-35687.5 LM=0.0] (Act=6.9)
 Aligning File: train/mfcc/sample41.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END TUTUP PINTU TUTUP KULKAS TUTUP HAI TUTUP HALO SENT-END  ==  [763 frames] -46.4506 [Ac=-35441.8 LM=0.0] (Act=7.5)
+SENT-END TUTUP PINTU TUTUP KULKAS TUTUP SIANG TUTUP HALO SENT-END  ==  [722 frames] -47.2851 [Ac=-34139.8 LM=0.0] (Act=6.8)
 Aligning File: train/mfcc/sample42.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END SORE MALAM PAGI SIANG LAMPU TV PENDINGIN PENGHANGAT SENT-END  ==  [815 frames] -48.6047 [Ac=-39612.8 LM=0.0] (Act=7.3)
+SENT-END SORE MALAM PAGI SIANG LAMPU TV PENDINGIN PENGHANGAT SENT-END  ==  [819 frames] -46.5673 [Ac=-38138.6 LM=0.0] (Act=6.8)
 Aligning File: train/mfcc/sample43.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA KULKAS HALO PAGI MATIKAN PENGHANGAT RUMAH HAI SENT-END  ==  [753 frames] -48.9869 [Ac=-36887.2 LM=0.0] (Act=7.3)
+SENT-END BUKA KULKAS HALO PAGI MATIKAN PENGHANGAT RUMAH SIANG SENT-END  ==  [818 frames] -46.7934 [Ac=-38277.0 LM=0.0] (Act=6.2)
 Aligning File: train/mfcc/sample44.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA RUMAH BUKA LAMPU BUKA PENGHANGAT BUKA PENDINGIN SENT-END  ==  [750 frames] -47.7159 [Ac=-35786.9 LM=0.0] (Act=7.9)
+SENT-END BUKA RUMAH BUKA LAMPU BUKA PENGHANGAT BUKA PENDINGIN SENT-END  ==  [834 frames] -45.2321 [Ac=-37723.5 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample45.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYALAKAN MATIKAN LAMPU TV HALO RUMAH HAI PAGI SENT-END  ==  [758 frames] -46.9903 [Ac=-35618.7 LM=0.0] (Act=7.2)
+SENT-END NYALAKAN MATIKAN LAMPU TV HALO RUMAH SIANG PAGI SENT-END  ==  [836 frames] -46.6328 [Ac=-38985.0 LM=0.0] (Act=6.6)
 Aligning File: train/mfcc/sample46.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END PAGI TV SIANG TV SORE TV MALAM TV HALO TV SENT-END  ==  [848 frames] -49.5536 [Ac=-42021.5 LM=0.0] (Act=7.5)
+SENT-END PAGI TV SIANG TV SORE TV MALAM TV HALO TV SENT-END  ==  [897 frames] -49.2107 [Ac=-44142.0 LM=0.0] (Act=7.4)
 Aligning File: train/mfcc/sample47.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HALO PINTU KULKAS HAI LAMPU TV NYALAKAN SORE SENT-END  ==  [795 frames] -47.6220 [Ac=-37859.5 LM=0.0] (Act=6.9)
+SENT-END HALO PINTU KULKAS SIANG LAMPU TV NYALAKAN SORE SENT-END  ==  [811 frames] -47.1773 [Ac=-38260.8 LM=0.0] (Act=6.4)
 Aligning File: train/mfcc/sample48.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HAI PINTU KULKAS PAGI TV PENGHANGAT MALAM PENDINGIN SENT-END  ==  [801 frames] -48.2684 [Ac=-38663.0 LM=0.0] (Act=8.3)
+SENT-END SIANG PINTU KULKAS PAGI TV PENGHANGAT MALAM PENDINGIN SENT-END  ==  [862 frames] -45.8510 [Ac=-39523.6 LM=0.0] (Act=7.0)
 Aligning File: train/mfcc/sample49.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BUKA TUTUP PINTU BUKA TUTUP KULKAS PAGI MALAM SENT-END  ==  [765 frames] -46.6179 [Ac=-35662.7 LM=0.0] (Act=6.8)
+SENT-END BUKA TUTUP PINTU BUKA TUTUP KULKAS PAGI MALAM SENT-END  ==  [809 frames] -46.4556 [Ac=-37582.6 LM=0.0] (Act=6.7)
 Aligning File: train/mfcc/sample50.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYALAKAN LAMPU HALO MALAM RUMAH MATIKAN PENDINGIN HAI SENT-END  ==  [802 frames] -48.2779 [Ac=-38718.9 LM=0.0] (Act=7.6)
+SENT-END NYALAKAN LAMPU HALO MALAM RUMAH MATIKAN PENDINGIN SIANG SENT-END  ==  [885 frames] -45.5770 [Ac=-40335.6 LM=0.0] (Act=6.5)
 Aligning File: train/mfcc/sample51.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END SUKA DUKA SAMA SAMA SUKA SUVENIR SUMUR SUMPIT SENT-END  ==  [776 frames] -50.2108 [Ac=-38963.6 LM=0.0] (Act=7.0)
+SENT-END ABAH BANYAK ABUL ADIB AGROBIS AGROBISNIS AKBAR AKIBAT SENT-END  ==  [968 frames] -50.5575 [Ac=-48939.6 LM=0.0] (Act=8.0)
 Aligning File: train/mfcc/sample52.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYONYA SALAH NYONYA MARAH PUKUL PINTU NYEBUR SUMUR SENT-END  ==  [789 frames] -49.7430 [Ac=-39247.3 LM=0.0] (Act=7.8)
+SENT-END AKOR AKTOR AKUMULATOR ALKOHOL ALOFON BIDO BILOKAL BIODATA SENT-END  ==  [1030 frames] -49.4271 [Ac=-50909.9 LM=0.0] (Act=7.1)
 Aligning File: train/mfcc/sample53.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HADI SUKA MAKAN BAKSO MINUM TEH SUKA PELANGI SENT-END  ==  [808 frames] -48.3691 [Ac=-39082.2 LM=0.0] (Act=7.4)
+SENT-END DAHAGA DAHAK DAHULU DALIH DAGANG DAGU DIAGONAL DIALOG SENT-END  ==  [953 frames] -49.7717 [Ac=-47432.4 LM=0.0] (Act=8.3)
 Aligning File: train/mfcc/sample54.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END AKU SATU BATU DUDUK PAKU CELAKA PETAKA PETA SENT-END  ==  [832 frames] -47.4375 [Ac=-39468.0 LM=0.0] (Act=8.2)
+SENT-END REM SATE FADIL FAKSI FALAH FANA FARDU FARISI SENT-END  ==  [884 frames] -49.4250 [Ac=-43691.7 LM=0.0] (Act=6.8)
 Aligning File: train/mfcc/sample55.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BANTAL HOTEL SANGAT NYAMAN EMPUK HARUM BUNGA VIOLET SENT-END  ==  [831 frames] -49.1332 [Ac=-40829.7 LM=0.0] (Act=7.3)
-Aligning File: train/mfcc/sample56.mfc
-Created lattice with 10 nodes / 9 arcs from label file
-SENT-END RENDANG PEDANG RINDANG SOTO PIDATO SATE AKTE RUTE SENT-END  ==  [897 frames] -47.6047 [Ac=-42701.4 LM=0.0] (Act=7.7)
-Aligning File: train/mfcc/sample57.mfc
-Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PISANG MUSANG GERSANG PASANG USANG RABU ABU ABU SENT-END  ==  [889 frames] -48.7550 [Ac=-43343.2 LM=0.0] (Act=7.8)
-Aligning File: train/mfcc/sample58.mfc
-Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MANGGA MENTEGA TIGA JAGA TEGA BAJA MEJA RAJA SENT-END  ==  [931 frames] -48.2670 [Ac=-44936.6 LM=0.0] (Act=8.3)
-Aligning File: train/mfcc/sample59.mfc
-Created lattice with 10 nodes / 9 arcs from label file
-SENT-END PIPI SAPI TAPI KOPI LACI CACI AMAN IDAMAN SENT-END  ==  [897 frames] -48.2316 [Ac=-43263.7 LM=0.0] (Act=8.6)
-Aligning File: train/mfcc/sample60.mfc
-Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYATA NYETAK NYURUH PENYU POLO IGLO LOMBOK BOLONG SENT-END  ==  [930 frames] -47.9423 [Ac=-44586.3 LM=0.0] (Act=8.5)
+SENT-END GANYAH HANYA HANYUT KONYOL KUNYAH KUNYIT MAKANYA MANYALA SENT-END  ==  [977 frames] -49.1212 [Ac=-47991.5 LM=0.0] (Act=6.9)
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
